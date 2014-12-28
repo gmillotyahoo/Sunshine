@@ -18,8 +18,7 @@ import java.util.List;
 
 public class MainActivity extends ActionBarActivity {
 
-    // Just a test
-    // Just a test 2
+    // Test 3
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
